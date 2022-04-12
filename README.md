@@ -1,6 +1,6 @@
 Hoisted Link : https://jus-talk.netlify.app/
 
-Multiple usernames can be used, presenlty there are 3 members in the group.
+Multiple usernames can be used, presently there are 3 members in the group.
 Backend is hosted by https://chatengine.io 
 
 1. username : kishor                  Pass : 123123
